@@ -54,7 +54,7 @@ Selectable view for 2021, 2022, or 2023 season data across all dashboards.
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmZmY2Q3ZmUtNDg3OC00MjNlLWJmODYtZjQ3MTk1ZDY1YmI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Linkedin Post]()
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7338955218337918979/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
