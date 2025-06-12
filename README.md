@@ -13,7 +13,7 @@ Despite the abundance of IPL data, meaningful insights are often scattered acros
 - Season-wise performance evolution
 This project aims to centralize IPL performance data, simplify comparative analysis, and assist users in decision-making or understanding trends through interactive dashboards.
 
-## 🔑 Dashboards & Features
+## 📈 Dashboards & Features
 #### 📅 Season Filter
 Selectable view for 2021, 2022, or 2023 season data across all dashboards.
 #### 🧢 Player Analysis
@@ -45,7 +45,7 @@ Selectable view for 2021, 2022, or 2023 season data across all dashboards.
 - DAX/M Language: Data transformations, measures, and queries
 - DAX studio: For optimizing the report.
 
-## 📈 Insights
+## 🔑 Key Insights
 - Shubman Gill emerged as the top batter in 2023 with 890 runs at an average of 52.35.
 - Mohammed Shami led the bowling chart with 28 wickets at an economy of 8.03.
 - Chennai Super Kings clinched the 2023 title with consistent team performance and balanced squad strength.
