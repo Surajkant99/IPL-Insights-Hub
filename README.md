@@ -18,17 +18,17 @@ This project aims to centralize IPL performance data, simplify comparative analy
 Selectable view for 2021, 2022, or 2023 season data across all dashboards.
 #### 🧢 Player Analysis
 - Top Batters by:
-- - Runs Scored
-- - Strike Rate
-- - Batting Average
+  - Runs Scored
+  - Strike Rate
+  - Batting Average
 - Top Bowlers by:
-- - Wickets Taken
-- - Economy Rate
-- - Bowling Average
+  - Wickets Taken
+  - Economy Rate
+  - Bowling Average
 - Allrounder Insights:
-- - Top by Runs
-- - Top by Wickets
-- - Strike Rate Comparison
+  - Top by Runs
+  - Top by Wickets
+  - Strike Rate Comparison
 #### 📈 Team Analysis
 - Win % comparison across seasons.
 - Wins while chasing vs batting first.
